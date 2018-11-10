@@ -1,0 +1,3 @@
+include 'compiladorpascal'
+include 'compiladorpascal.ide'
+include 'compiladorpascal.tests'
